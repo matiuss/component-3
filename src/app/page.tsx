@@ -7,6 +7,9 @@ export default function Home() {
             <Link href="/docente/students" className="bg-blue-500 text-white px-4 py-2 rounded">
               Ver Estudiantes
             </Link>
+            <div className="mt-auto mb-4 text-gray-500 text-sm">
+              si puedo trabajar en el main del proyecto :v
+            </div>
           </div>
         );
       }
